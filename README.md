@@ -1,1 +1,1 @@
-# GarimellaPremaManvi_DesignPrinciples
+# Implementing DRY Principle (Don't Repeat Yourself)
